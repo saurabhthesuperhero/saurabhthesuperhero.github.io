@@ -3,6 +3,11 @@ layout: post
 title: How to use Recylerview & Picasso to use api and fetch into list
 published: true
 ---
+---
+layout: post
+title:  How to use Recylerview & Picasso to use api and fetch into list
+---
+
 # Android Snippets
 
 ## How to use Recylerview & Picasso to use api and fetch into list
