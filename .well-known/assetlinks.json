@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.travelreel.app",
+      "sha256_cert_fingerprints": [
+        "BF:F3:A9:EF:2A:1D:66:93:5E:C8:D9:85:DD:05:63:38:5E:53:31:99:20:CD:DE:E8:1F:B9:BC:C5:C4:0D:A0:2B",
+        "F0:69:3F:BA:9E:CC:6B:3E:F0:73:47:E8:40:04:CD:2D:E8:38:F6:20:B6:79:CF:12:6C:A3:9E:46:3C:0F:37:D5"
+      ]
+    }
+  }
+]

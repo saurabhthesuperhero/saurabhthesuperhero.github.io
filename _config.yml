@@ -84,3 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Android App Links (TravelReel "Make this route"): serve the dot-folder.
+include: [".well-known"]
